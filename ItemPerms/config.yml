@@ -1,0 +1,14 @@
+# ItemPermissions Config File ©2015
+# ------------
+#   Messages
+# ------------
+Messages:
+  outputMessage: True
+genericMessage: You don't have permission to 
+# genericMessage will go before all following messages 
+# eg. "You don't have permission to " + "break that!"
+noUseMessage: use that!
+noPlaceMessage: place that!
+noBreakMessage: break that!
+noAttackMessage: attack that!
+noArmorMessage: wear that type of armor!

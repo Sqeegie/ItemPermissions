@@ -1,0 +1,5 @@
+name: ItemPermissions
+version: 0.7.0
+main: me.kev3200.itemp.core.Main
+author: kev3200, Sqeegie
+description: Prevents players from placing banned blocks.
