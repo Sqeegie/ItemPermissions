@@ -1,5 +1,5 @@
 name: ItemPermissions
-version: 0.7.0
+version: 0.7.1
 main: me.kev3200.itemp.core.Main
 author: kev3200, Sqeegie
-description: Prevents players from placing banned blocks.
+description: Prevents players from placing banned blocks. Made for the BuildZone server.
